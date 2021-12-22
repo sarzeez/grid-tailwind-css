@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grid-tailwind-css/static/css/main.d75e907a.css",
+    "main.js": "/grid-tailwind-css/static/js/main.16ed852a.js",
+    "index.html": "/grid-tailwind-css/index.html",
+    "main.d75e907a.css.map": "/grid-tailwind-css/static/css/main.d75e907a.css.map",
+    "main.16ed852a.js.map": "/grid-tailwind-css/static/js/main.16ed852a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75e907a.css",
+    "static/js/main.16ed852a.js"
+  ]
+}
